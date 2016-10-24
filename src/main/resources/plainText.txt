@@ -1,0 +1,1 @@
+The Decorator pattern is also known as the Wrapper pattern. This pattern was previously described in [GoF95]. The Decorator pattern extends the functionality of an object in a way that is transparent to its clients by implementing the same interface as the original class and delegating operations to the original class.
